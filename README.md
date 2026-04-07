@@ -19,7 +19,7 @@ git clone https://github.com/rjd14me/NEA.git
 Install dependencies:
 pip install pygame pytmx
 Run the game:
-python main.py
+python AnotherDungeonExplorerGamev.py
 ```
 
 ## Project Structure:
