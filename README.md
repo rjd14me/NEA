@@ -13,11 +13,14 @@ Tile-based levels using TMX maps
 Animated sprites for characters and objects
 Educational code: modular classes for Level, Player, Enemies, Items, and Timers
 
-Controls
+Controls:
 
 Arrow Keys – Move
+
 Space – Jump
+
 X – Attack
+
 Down – Drop through platforms
 
 Installation
