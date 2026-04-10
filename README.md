@@ -1,4 +1,4 @@
-# Another Dungeon Explorer (NEA)
+# Another Dungeon Explorer Game (NEA)
 
 ## Description:
 A simple python 2d side scroller dungeon Explorer game inspired by works such as Hollow Knight
