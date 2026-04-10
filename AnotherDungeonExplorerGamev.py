@@ -1,5 +1,3 @@
-#better camera and boss and ui
-
 import pygame, sys
 from pygame.math import Vector2 as vector
 from pytmx.util_pygame import load_pygame
@@ -21,7 +19,6 @@ LEVEL_LAYERS ={
      'main':4,
      'platforms':5,
      'fg':6,
-
 
 }
 
@@ -87,11 +84,11 @@ class AllSprites(pygame.sprite.Group):
             super().__init__()
             self.display_surface = pygame.display.get_surface()
             self.offset = vector()
-            self.zoom = 2.2
+            self.zoom = 2.4
 
      def draw(self, target_position):
         self.offset.x = -(target_position[0] - WINDOW_WIDTH / 2)
-        self.offset.y = -(target_position[1] - WINDOW_HEIGHT / 1.75)
+        self.offset.y = -(target_position[1] - WINDOW_HEIGHT / 1.65)
         temp_surface = pygame.Surface((WINDOW_WIDTH, WINDOW_HEIGHT))
         temp_surface.fill('black')
         for sprite in sorted(self.sprites(), key=lambda sprite: sprite.z):

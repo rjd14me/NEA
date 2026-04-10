@@ -579,31 +579,27 @@
   <object id="100" name="Painting" gid="229" x="1216" y="1200" width="16" height="16"/>
  </objectgroup>
  <objectgroup id="11" name="Enemies">
-  <object id="104" name="Zombie" gid="231" x="192" y="1232" width="16" height="16"/>
-  <object id="105" name="Zombie" gid="231" x="48" y="1168" width="16" height="16"/>
-  <object id="106" name="Zombie" gid="231" x="64" y="1088" width="16" height="16"/>
-  <object id="107" name="Zombie" gid="231" x="224" y="1088" width="16" height="16"/>
-  <object id="108" name="Zombie" gid="231" x="288" y="1024" width="16" height="16"/>
-  <object id="109" name="Zombie" gid="231" x="448" y="768" width="16" height="16"/>
-  <object id="110" name="Zombie" gid="231" x="480" y="832" width="16" height="16"/>
-  <object id="111" name="Zombie" gid="231" x="608" y="800" width="16" height="16"/>
-  <object id="112" name="Zombie" gid="231" x="912" y="768" width="16" height="16"/>
-  <object id="113" name="Zombie" gid="231" x="1024" y="768" width="16" height="16"/>
-  <object id="114" name="Zombie" gid="231" x="960" y="736" width="16" height="16"/>
-  <object id="115" name="Zombie" gid="231" x="880" y="976" width="16" height="16"/>
-  <object id="116" name="Zombie" gid="231" x="1040" y="1008" width="16" height="16"/>
-  <object id="117" name="Zombie" gid="231" x="1200" y="1232" width="16" height="16"/>
+  <object id="104" name="Zombie" gid="231" x="192" y="1184" width="16" height="16"/>
+  <object id="105" name="Zombie" gid="231" x="48" y="1136" width="16" height="16"/>
+  <object id="106" name="Zombie" gid="231" x="48" y="1024" width="16" height="16"/>
+  <object id="108" name="Zombie" gid="231" x="304" y="944" width="16" height="16"/>
+  <object id="110" name="Zombie" gid="231" x="480" y="800" width="16" height="16"/>
+  <object id="111" name="Zombie" gid="231" x="608" y="720" width="16" height="16"/>
+  <object id="112" name="Zombie" gid="231" x="912" y="688" width="16" height="16"/>
+  <object id="113" name="Zombie" gid="231" x="1024" y="736" width="16" height="16"/>
+  <object id="115" name="Zombie" gid="231" x="880" y="928" width="16" height="16"/>
+  <object id="116" name="Zombie" gid="231" x="1040" y="912" width="16" height="16"/>
+  <object id="117" name="Zombie" gid="231" x="1200" y="1136" width="16" height="16"/>
   <object id="118" name="Ratto" gid="232" x="144" y="1232" width="16" height="8"/>
   <object id="119" name="Ratto" gid="232" x="224" y="1136" width="16" height="8"/>
   <object id="120" name="Ratto" gid="232" x="112" y="1088" width="16" height="8"/>
-  <object id="121" name="Ratto" gid="232" x="224" y="1024" width="16" height="8"/>
+  <object id="121" name="Ratto" gid="232" x="192" y="1024" width="16" height="8"/>
   <object id="122" name="Ratto" gid="232" x="400" y="832" width="16" height="8"/>
-  <object id="123" name="Ratto" gid="232" x="512" y="832" width="16" height="8"/>
-  <object id="124" name="Ratto" gid="232" x="848" y="800" width="16" height="8"/>
+  <object id="123" name="Ratto" gid="232" x="480" y="832" width="16" height="8"/>
+  <object id="124" name="Ratto" gid="232" x="832" y="800" width="16" height="8"/>
   <object id="125" name="Ratto" gid="232" x="1024" y="704" width="16" height="8"/>
   <object id="126" name="Ratto" gid="232" x="1056" y="1008" width="16" height="8"/>
   <object id="127" name="Ratto" gid="232" x="1184" y="1232" width="16" height="8"/>
-  <object id="128" name="Ratto" gid="232" x="1280" y="1232" width="16" height="8"/>
   <object id="129" name="Ratto" gid="232" x="1280" y="1232" width="16" height="8"/>
   <object id="131" name="Boss" gid="234" x="1488" y="1184" width="64" height="64"/>
  </objectgroup>
